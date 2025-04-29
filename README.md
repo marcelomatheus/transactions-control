@@ -5,5 +5,5 @@ Para testar:
   "value": 1500.50,
   "transactionType": "CREDIT",
   "installments": 5,
-  "custo
+  "customer_id": "DSFJFLASAG"
 }
